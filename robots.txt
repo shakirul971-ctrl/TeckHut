@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shakirul971-ctrl.github.io/TeckHut/sitemap.xml
